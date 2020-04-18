@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  Network.swift
 //  CombineFramework
 //
 //  Created by Tolga İskender on 18.04.2020.
